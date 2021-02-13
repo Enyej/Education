@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+/Exercise 1/C++/Exercise 1/Debug/
+/Exercise 1/C++/Exercise 1/Exercise 1/Debug
+/Exercise 1/C++/Exercise 1/.vs/Exercise 1/v16
