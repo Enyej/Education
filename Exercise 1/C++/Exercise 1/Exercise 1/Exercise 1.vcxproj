@@ -142,10 +142,12 @@
     <ClCompile Include="ArmstrongNumbers.cpp" />
     <ClCompile Include="Exercise 1.cpp" />
     <ClCompile Include="FriendlyNumbers.cpp" />
+    <ClCompile Include="MarriedNumbers.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ArmstrongNumbers.h" />
     <ClInclude Include="FriendlyNumbers.h" />
+    <ClInclude Include="MarriedNumbers.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

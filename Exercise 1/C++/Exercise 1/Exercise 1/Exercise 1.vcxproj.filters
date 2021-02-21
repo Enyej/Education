@@ -24,12 +24,18 @@
     <ClCompile Include="FriendlyNumbers.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="MarriedNumbers.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ArmstrongNumbers.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
     <ClInclude Include="FriendlyNumbers.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="MarriedNumbers.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>

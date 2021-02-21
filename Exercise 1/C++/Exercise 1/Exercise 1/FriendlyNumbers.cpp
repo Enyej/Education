@@ -10,7 +10,7 @@ void FriendlyNumbers::printNumbers(int start, int end)
            
     for (Pair p : lst)
         for (Pair p1 : lst)
-            if (p.num == p1.devisorsSum && p.devisorsSum == p1.num)
+            if (p.num == p1.devisorsSum && p.devisorsSum == p1.num && p.num <= p1.num)
                 std::cout << p.toString() << std::endl;
 }
 
